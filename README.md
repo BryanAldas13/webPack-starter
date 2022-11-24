@@ -9,4 +9,4 @@ Recuerden reconstruir los módulos de Node
 
 Y para construir el build, recuerden
 
-- npm run build
+- npm run build.
