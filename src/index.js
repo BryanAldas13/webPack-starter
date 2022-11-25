@@ -1,5 +1,7 @@
-import { saludar } from "./js/componentes";
-import "./styles.css";
+import { saludar } from './js/componentes.js';
+import './styles.css';
 
-const nombre = "Bryan";
-saludar (nombre);
+
+const nombre = 'Bryan';
+
+saludar( nombre );
